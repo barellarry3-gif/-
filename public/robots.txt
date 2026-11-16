@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://larry-barel-breathwork.onrender.com/sitemap.xml
